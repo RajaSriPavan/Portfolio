@@ -567,7 +567,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .isotope .item img{
     width:100%;
     height:100%;
-    border-radius:15% ;
+    border-radius:5% ;
     -webkit-transition: .5s;
     -moz-transition: .5s;
     -ms-transition: .5s;
